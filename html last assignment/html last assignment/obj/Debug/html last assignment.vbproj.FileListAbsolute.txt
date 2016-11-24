@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\bin\html last assignment.dll.config
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\bin\html last assignment.dll
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\bin\html last assignment.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\bin\html last assignment.xml
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\obj\Debug\html_last_assignment.Resources.resources
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\obj\Debug\html last assignment.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\obj\Debug\html last assignment.dll
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\obj\Debug\html last assignment.xml
+C:\Users\admin\documents\visual studio 2013\Projects\html last assignment\html last assignment\obj\Debug\html last assignment.pdb
